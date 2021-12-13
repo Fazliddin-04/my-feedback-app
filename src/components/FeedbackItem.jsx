@@ -1,4 +1,4 @@
-import { FaTimes, FaEdit, FaTextWidth } from 'react-icons/fa'
+import { FaTimes, FaEdit } from 'react-icons/fa'
 import { useContext } from 'react'
 import PropTypes from 'prop-types'
 
